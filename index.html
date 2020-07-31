@@ -39,7 +39,7 @@
     />
 
     <!-- CSS sytle file  -->
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
 </head>
 
 <body>
@@ -78,10 +78,10 @@
   <Section class="introduction container">
     <div class="row">
       <div class="col-md-7 col-sm-12 ">
-        <h2>Hello, my name is</h2> 
-        <h1>Bing Zhang</h1>
+        <h2>Hello, my name is <span id="bing">Bing</span></h2> 
         <h2>A Dreamer, Doer, Connector and Entrepreneur.</h2>
-        <button class="btn btn-light py-2">Learn More</button>
+        <a href="#about"class="btn btn-outline-danger py-2">Learn More</a>
+        
       </div>
       <div class="col-md-5 col-sm-12 h-30">
         <img class="img-fluid mx-auto" src="./assets/images/nobg-bing00.png" alt="An Asian female smiling with hands making a heart">
@@ -89,10 +89,10 @@
     </div>
   </section>
   <!-- Main Contents - About Section -->
-  <section class="about container">
+  <section class="about container" id="about">
     <div class="row">
       <div class="col-md-5 col-sm-12 ">
-        <img class="img-fluid mx-auto " src="./assets/images/01.png" alt="image-0" role="presentation" width = >
+        <img class="img-fluid mx-auto my-3" src="./assets/images/01.png" alt="image-0" role="presentation">
       </div>
       <div class="col-md-7 col-sm-12 text-left">
         <h1>About Me</h1>
@@ -105,5 +105,7 @@
       </div>
     </div>
   </section>
+
+
 </body>
 </html>
