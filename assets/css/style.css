@@ -16,11 +16,12 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 body {
     font-family: Lato, Montserrat, sans-serif;
     font-size: 16px;
+    padding-bottom: 80px;
 }
 
 /* Header navbar styling*/
 
-header ul li a.nav-link {
+header.navbar ul li a.nav-link {
     color: #838383
 }
 
