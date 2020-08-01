@@ -35,25 +35,23 @@ section.section-1  {
     margin-bottom: 10%;
 }
 
-
-
 section div.title {
     padding: 20%  5% 15% 0;
 
 }
 
-section.introduction img {
-    padding: 20% 0 15% 15%; 
-}
-
-section.introduction h2 {
+section.introduction h1 {
     font-size: 3rem;
 }
 
-section.introduction h2 span.bing {
+section.introduction h1 span.bing {
     font-size: 4rem; 
     font-family: "Montserrat";
     color: #3f6cb2;
+}
+
+section.introduction img {
+    padding: 20% 0 15% 15%; 
 }
 
 /* index.html- About Me Section */
@@ -79,8 +77,25 @@ section.about p span.i {
     font-family: "Montserrat";
 }
 
+/* footer  */
+footer p.copyright, li a.email {
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+}
+
 /* portfolio.html main section */
 
+section.tech-skills h1 {
+    font-size: 2.95rem;
+}
 section.tech-skills img { 
     padding-top: 18%;
+}
+
+/* portfolio.html project section */
+
+section.projects div.card-img-top {
+    width: 100%;
+    height: 24rem;
+    /* object-fit: cover; */
 }
