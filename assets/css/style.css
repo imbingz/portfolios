@@ -56,29 +56,31 @@ section.introduction h2 span.bing {
     color: #3f6cb2;
 }
 
-/* About Me Section */
-section.about {
+/* index.html- About Me Section */
+section.about-for-index {
     margin-bottom: 8%;
 }
-section.about img {
+section.about img-for-index {
     padding-bottom: 10%;
 }
 
-section.about h2 {
+section.about h2-for-index {
     padding: 5%;
 }
 
-section.about p {
+section.about p-for-index {
     line-height: 150%;
 }
-section.about p span.h {
+section.about p span.h-for-index {
     font-size: 1.5rem;
     color: #bd2640;
     font-family: "Montserrat";
 }
 
-section.about p span.i {
+section.about p span.i-for-index {
     font-size: 1.5rem;
     color: #3f6cb2;
-    font-family: 
+    font-family: "Montserrat";
 }
+
+/* portfolio.html main section */
