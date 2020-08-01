@@ -29,9 +29,9 @@ header ul li a.active {
     color: #000000;
 }
 
-/* Introduction Section*/
+/* Introduction Section-1*/
 
-section.introduction {
+section.section-1  {
     margin-bottom: 10%;
 }
 
@@ -43,7 +43,7 @@ section div.title {
 }
 
 section.introduction img {
-    padding: 38% 0 15% 15%; 
+    padding: 20% 0 15% 15%; 
 }
 
 section.introduction h2 {
@@ -57,30 +57,30 @@ section.introduction h2 span.bing {
 }
 
 /* index.html- About Me Section */
-section.about-for-index {
+section.about {
     margin-bottom: 8%;
 }
-section.about img-for-index {
+section.about img {
     padding-bottom: 10%;
 }
 
-section.about h2-for-index {
-    padding: 5%;
-}
-
-section.about p-for-index {
+section.about p {
     line-height: 150%;
 }
-section.about p span.h-for-index {
+section.about p span.h {
     font-size: 1.5rem;
     color: #bd2640;
     font-family: "Montserrat";
 }
 
-section.about p span.i-for-index {
+section.about p span.i {
     font-size: 1.5rem;
     color: #3f6cb2;
     font-family: "Montserrat";
 }
 
 /* portfolio.html main section */
+
+section.tech-skills img { 
+    padding-top: 18%;
+}
