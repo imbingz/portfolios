@@ -14,7 +14,7 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 }
 
 body {
-    font-family: Montserrat, Lato, sans-serif;
+    font-family: Lato, Montserrat, sans-serif;
     font-size: 16px;
 }
 
@@ -28,21 +28,21 @@ header ul li a.active {
     color: #000000;
 }
 
-/* Introduction styling */
+/* Introduction Section*/
 
 section.introduction {
     margin-bottom: 10%;
 }
 
+
+
 section div.title {
-    padding: 20%  8% 15% 0;
-    margin-left: 3%;
+    padding: 20%  5% 15% 0;
 
 }
 
 section.introduction img {
-    padding: 35% 0 15% 15%; 
-    margin-left: 5%
+    padding: 38% 0 15% 15%; 
 }
 
 section.introduction h2 {
@@ -51,6 +51,33 @@ section.introduction h2 {
 
 section.introduction h2 span.bing {
     font-size: 4rem; 
-    font-family: "Lato";
+    font-family: "Montserrat";
     color: #3f6cb2;
+}
+
+/* About Me Section */
+section.about {
+    margin-bottom: 8%;
+}
+section.about img {
+    padding-bottom: 10%;
+}
+
+section.about h2 {
+    padding: 5%;
+}
+
+section.about p {
+    line-height: 150%;
+}
+section.about p span.h {
+    font-size: 1.5rem;
+    color: #bd2640;
+    font-family: "Montserrat";
+}
+
+section.about p span.i {
+    font-size: 1.5rem;
+    color: #3f6cb2;
+    font-family: 
 }
