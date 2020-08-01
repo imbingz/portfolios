@@ -19,16 +19,6 @@ body {
     padding-bottom: 80px;
 }
 
-/* Header navbar styling*/
-
-header.navbar ul li a.nav-link {
-    color: #838383
-}
-
-header ul li a.active {
-    color: #000000;
-}
-
 /* Introduction Section-1*/
 
 section.section-1  {
@@ -106,8 +96,8 @@ section.contact div.title {
     margin-bottom: 28%;
 }
 
-section.contact h1, h3, a {
-    margin-left: 7%;
+section.contact div.title h1, section.contact div.title h3, section.contact div.title a {
+    margin-left: 18%;
 }
 
 section.contact h1 {
