@@ -99,3 +99,29 @@ section.projects div.card-img-top {
     height: 24rem;
     /* object-fit: cover; */
 }
+
+/* Contact.html styling */
+section.contact div.title {
+    padding-top: 15%;
+    margin-bottom: 28%;
+}
+
+section.contact h1, h3, a {
+    margin-left: 7%;
+}
+
+section.contact h1 {
+    font-size: 3rem;
+}
+
+section.contact div.info {
+    margin: 25% 0 15%;
+}
+
+section.contact div.info {
+    background-color: #efefef;
+    padding: 2% 0;
+}
+section.contact div.info div.social li {
+    list-style: none;
+}
