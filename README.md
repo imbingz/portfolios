@@ -1,15 +1,18 @@
 # Responsive-Website-Portfolio
 
 ### Project context
+<br/>  
 A website that will showcase my future projects along with information about myself.
 
 ### Project objectives
+<br/>  
  * Use Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
  * Use Bootstrap4 to make a sticky footer 
  * Apply Bootstrap4 sub-rows and sub-columns 
 
 
 ### This website uses HTML5, CSS3 and Bootstrap4
+<br/>  
 It is optimized for SEO and ARIA accessibility 
 It is optimized for different devices such as mobile, tablet, and desktop.
 It is NOT optimized for extreme large screens such as Apple iMac 27
@@ -21,6 +24,7 @@ It is NOT optimized for extreme large screens such as Apple iMac 27
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 ### Screenshots - Laptop view 
+<br/>  
 ![screenshot1](assets/images/s1.png)
 ![screenshot2](assets/images/s2.png)
 ![screenshot3](assets/images/s3.png)
@@ -28,6 +32,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Screenshots - Mobile View
+<br/>  
 ![mobileView-1](assets/images/m7.jpg)
 ![mobileView-2](assets/images/m1.jpg)
 ![mobileView-3](assets/images/m2.jpg)
@@ -36,6 +41,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Installation
+<br/>  
 * Access to GitHub.com and a code editor such as vscode is necessary
 * Go to [github.com/imbingz/imbingz.github.io.](https://github.com/imbingz/Responsive-Website-Portfolio)
 * Click on the green button that says Clone or Download
@@ -46,22 +52,24 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Credits:
-[getbootstrap.com]https://getbootstrap.com/docs/4.0/getting-started/introduction/
+<br/>  
+[getbootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 [fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
-[favicon-generator.org]https://www.favicon-generator.org/
-[fonts.google.com]https://fonts.google.com/
-[canva.com]https://www.canva.com
-[cobidev.com]https://cobidev.com/
-[behance.net]https://www.behance.net/collection/178220473/Portfolio-website
-[icon8.com]https://icons8.com/
-[unsplash.com]https://unsplash.com/
-[YouTube-video]https://youtu.be/zhllkjYYUVE
-[User-flow]https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/
-[Typographic-Webdesign]http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric.
-[how-to-write-readme]https://github.com/matiassingers/awesome-readme
+[favicon-generator.org](https://www.favicon-generator.org/)
+[fonts.google.com](https://fonts.google.com/)
+[canva.com](https://www.canva.com)
+[cobidev.com](https://cobidev.com/)
+[behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
+[icon8.com](https://icons8.com/)
+[unsplash.com](https://unsplash.com/)
+[YouTube-video](https://youtu.be/zhllkjYYUVE)
+[User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
+[Typographic-Webdesign](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
+[how-to-write-readme](https://github.com/matiassingers/awesome-readme)
 
 
 ### License
+<br/>  
 MIT License
 Copyright (c) [2020] [bingzhang]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
