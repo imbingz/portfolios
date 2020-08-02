@@ -50,7 +50,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Credits:
-* [getbootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * [fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
 * [favicon-generator.org](https://www.favicon-generator.org/)
 * [fonts.google.com](https://fonts.google.com/)
@@ -60,7 +60,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 * [icon8.com](https://icons8.com/)
 * [unsplash.com](https://unsplash.com/)
 * [YouTube-video](https://youtu.be/zhllkjYYUVE)
-* [User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
+* [Web-flow/User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
 * [Typographic-Webdesign](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
 * [how-to-write-readme](https://github.com/matiassingers/awesome-readme)
 
