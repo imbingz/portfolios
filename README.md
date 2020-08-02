@@ -1,18 +1,15 @@
 # Responsive-Website-Portfolio
 
 ### Project context
-<br/>
 A website that will showcase my future projects along with information about myself.
 
 ### Project objectives
-<br/>  
  * Use Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
  * Use Bootstrap4 to make a sticky footer 
  * Apply Bootstrap4 sub-rows and sub-columns 
 
 
 ### This website uses HTML5, CSS3 and Bootstrap4
-<br/>  
 It is optimized for SEO and ARIA accessibility 
 It is optimized for different devices such as mobile, tablet, and desktop.
 It is NOT optimized for extreme large screens such as Apple iMac 27
@@ -41,7 +38,6 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Installation
-<br/>  
 * Access to GitHub.com and a code editor such as vscode is necessary
 * Go to [github.com/imbingz/imbingz.github.io.](https://github.com/imbingz/Responsive-Website-Portfolio)
 * Click on the green button that says Clone or Download
@@ -52,8 +48,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Credits:
-<br/>  
-[getbootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+<p>[getbootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)</p>
 [fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
 [favicon-generator.org](https://www.favicon-generator.org/)
 [fonts.google.com](https://fonts.google.com/)
