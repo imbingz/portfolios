@@ -74,9 +74,15 @@ section.about p span.i {
 }
 
 /* footer  */
-footer p.copyright, footer li a.email {
+
+
+footer ul.copyright p, footer li a.email {
     font-size: 0.75rem;
     letter-spacing: 0.9px;
+}
+
+footer ul.social li {
+    list-style: none;
 }
 
 /* portfolio.html main section */
