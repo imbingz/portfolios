@@ -32,6 +32,10 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 ![mobileView-2](assets/images/m1.jpg)
 ![mobileView-3](assets/images/m2.jpg)
 ![mobileView-4](assets/images/m5.jpg)
+![mobileView-5](assets/images/m3.jpg)
+![mobileView-6](assets/images/m4.jpg)
+
+
 
 
 
