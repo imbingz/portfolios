@@ -51,18 +51,18 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 ### Credits:
 * [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
-* [fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
 * [favicon-generator.org](https://www.favicon-generator.org/)
 * [fonts.google.com](https://fonts.google.com/)
-* [My inspiration-canva.com](https://www.canva.com)
-* [My inspiration-cobidev.com](https://cobidev.com/)
-* [My inspiration-behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
-* [free icons-icon8.com](https://icons8.com/)
-* [free photos-unsplash.com](https://unsplash.com/)
+* [Free icons-fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
+* [Free icons-icon8.com](https://icons8.com/)
+* [Free photos-unsplash.com](https://unsplash.com/)
 * [YouTube-Bootstrap Video](https://youtu.be/zhllkjYYUVE)
+* [Inspiration-behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
+* [Inspiration-canva.com](https://www.canva.com)
+* [Inspiration-cobidev.com](https://cobidev.com/)
 * [User-Journey v.s User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
 * [Typographic Web design](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
-* [how-to-write-readme](https://github.com/matiassingers/awesome-readme)
+* [How to write README](https://github.com/matiassingers/awesome-readme)
 
 
 ### License
