@@ -38,6 +38,8 @@ section.section-1 a.btn, section.section-2 a.btn {
     border: 1px solid #bd2640;
     font-weight: 500;
 }
+
+/* This styles all titles of all pages */
 section div.title {
     padding: 20%  5% 15% 0;
 }
@@ -113,17 +115,13 @@ section.contact div.title {
     margin-bottom: 28%;
 }
 
-section.contact div.title h1, 
-section.contact div.title h3, 
-section.contact div.title a {
+ /* section.contact div.title h1, ection.contact div.title h3, section.contact div.title a {
     margin-left: 8%;
-}
+ } */
 
 /* section.contact div.title h1 {
     font-size: 3rem;
 } */
-
-
 
 section.contact div.info {
     background-color: #efefef;
