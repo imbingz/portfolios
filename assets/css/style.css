@@ -33,8 +33,9 @@ section.section-1 h1 {
 
 /* This styles all link buttons of all pages */
 section.section-1 a.btn, section.section-2 a.btn {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     border: 1px solid #bd2640;
+    font-weight: 500;
 }
 section div.title {
     padding: 20%  5% 15% 0;
