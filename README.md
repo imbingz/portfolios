@@ -40,13 +40,6 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 <a name="Screenshots"></a>
 ### 5. Screenshots 
 
-####  Screenshots - Laptop view 
-![screenshot1](assets/images/s1.png)
-![screenshot2](assets/images/s2.png)
-![screenshot3](assets/images/s3.png)
-![screenshot4](assets/images/s4.png)
-
-
 #### Screenshots - Mobile View
 
 <kbd>![mobileView-1](assets/images/m5.jpg)</kbd>
@@ -56,6 +49,12 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 <kbd>![mobileView-6](assets/images/m4.jpg)</kbd>
 <kbd>![mobileView-4](assets/images/m6.jpg)</kbd>
 
+
+####  Screenshots - Laptop view 
+![screenshot1](assets/images/s1.png)
+![screenshot2](assets/images/s2.png)
+![screenshot3](assets/images/s3.png)
+![screenshot4](assets/images/s4.png)
 
 
 
