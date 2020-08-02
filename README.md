@@ -1,24 +1,30 @@
 # Responsive-Website-Portfolio
 
-### Table of Content
+## Table of Content
 1. [ Project Context ](#context)
-2. [ Usage tips. ](#usage)
+2. [ Project Objectives ](#objectives)
+3. [ Tools Used ](#tools)
+3. [ Project Objectives ](#objectives)
+3. [ Project Objectives ](#objectives)
+3. [ Project Objectives ](#objectives)
+3. [ Project Objectives ](#objectives)
+3. [ Project Objectives ](#objectives)
 
-<a name="context"></a>
+<a name="tools"></a>
 ## 1. Description
 
-sometext
 
 <a name="context"></a>
 ### Project Context
 A website that will showcase my future projects along with information about myself.
 
-### Project objectives
+<a name="objectives"></a>
+### Project Objectives
  * Use Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
  * Use Bootstrap4 to make a sticky footer 
  * Apply Bootstrap4 sub-rows and sub-columns 
 
-
+<a name="tools"></a>
 ### This website uses HTML5, CSS3 and Bootstrap4
 * It is optimized for SEO and ARIA accessibility 
 * It is responsive to different screen sizes of devices such as mobile, tablet, and desktop.
