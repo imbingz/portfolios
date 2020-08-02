@@ -10,7 +10,7 @@
 7. [ Credits](#Credits)
 8. [What I've Learned](#learned)
 9. [ License ](#License)
-
+<hr>
 
 <a name="context"></a>
 ### 1. Project Context
