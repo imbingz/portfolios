@@ -21,7 +21,6 @@ It is NOT optimized for extreme large screens such as Apple iMac 27
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 ### Screenshots - Laptop view 
-<br/>  
 ![screenshot1](assets/images/s1.png)
 ![screenshot2](assets/images/s2.png)
 ![screenshot3](assets/images/s3.png)
@@ -29,7 +28,6 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Screenshots - Mobile View
-<br/>  
 ![mobileView-1](assets/images/m7.jpg)
 ![mobileView-2](assets/images/m1.jpg)
 ![mobileView-3](assets/images/m2.jpg)
@@ -48,25 +46,25 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ### Credits:
-<p>[getbootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)</p>
-[fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
-[favicon-generator.org](https://www.favicon-generator.org/)
-[fonts.google.com](https://fonts.google.com/)
-[canva.com](https://www.canva.com)
-[cobidev.com](https://cobidev.com/)
-[behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
-[icon8.com](https://icons8.com/)
-[unsplash.com](https://unsplash.com/)
-[YouTube-video](https://youtu.be/zhllkjYYUVE)
-[User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
-[Typographic-Webdesign](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
-[how-to-write-readme](https://github.com/matiassingers/awesome-readme)
+* [getbootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
+* [favicon-generator.org](https://www.favicon-generator.org/)
+* [fonts.google.com](https://fonts.google.com/)
+* [canva.com](https://www.canva.com)
+* [cobidev.com](https://cobidev.com/)
+* [behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
+* [icon8.com](https://icons8.com/)
+* [unsplash.com](https://unsplash.com/)
+* [YouTube-video](https://youtu.be/zhllkjYYUVE)
+* [User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
+* [Typographic-Webdesign](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
+* [how-to-write-readme](https://github.com/matiassingers/awesome-readme)
 
 
 ### License
-<br/>  
-MIT License
-Copyright (c) [2020] [bingzhang]
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+#####MIT License
+<p>Copyright (c) [2020] [bingzhang]</p>
+<p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
+<p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
