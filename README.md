@@ -1,18 +1,16 @@
 # Responsive-Website-Portfolio
 
 ### Table of Content
-1. [ Description. ](#desc)
+1. [ Project Context ](#context)
 2. [ Usage tips. ](#usage)
 
-<a name="desc"></a>
+<a name="context"></a>
 ## 1. Description
 
 sometext
 
-<a name="usage"></a>
-## 2. Usage tips
-
-### Project context
+<a name="context"></a>
+### Project Context
 A website that will showcase my future projects along with information about myself.
 
 ### Project objectives
