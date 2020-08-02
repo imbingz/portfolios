@@ -29,10 +29,12 @@ A website that will showcase my future projects along with information about mys
 * It is NOT optimized for extreme large screens such as Apple iMac 27
 
 <a name="Links"></a>
-### 4. Link - Project Website
+### 4. Project Links
+
+#### Website
  https://imbingz.github.io/Responsive-Website-Portfolio/
 
-### Link - Project files 
+#### files 
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 <a name="Screenshots"></a>
