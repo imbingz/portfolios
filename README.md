@@ -47,7 +47,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 #### Screenshots - Mobile View
 
-<kbd>![mobileView-1](assets/images/m7.jpg)</kbd>
+<kbd>![mobileView-1](assets/images/m6.jpg)</kbd>
 <kbd>![mobileView-2](assets/images/m1.jpg)</kbd>
 <kbd>![mobileView-3](assets/images/m2.jpg)</kbd>
 <kbd>![mobileView-5](assets/images/m3.jpg)</kbd>
