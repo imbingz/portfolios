@@ -113,8 +113,10 @@ section.contact div.title {
     margin-bottom: 28%;
 }
 
-section.contact div.title h1, section.contact div.title h3, section.contact div.title a {
-    margin-left: 18%;
+section.contact div.title h1, 
+section.contact div.title h3, 
+section.contact div.title a {
+    margin-left: 8%;
 }
 
 /* section.contact div.title h1 {
@@ -126,6 +128,7 @@ section.contact div.title h1, section.contact div.title h3, section.contact div.
 section.contact div.info {
     background-color: #efefef;
     padding: 2% 0;
+    margin: 15% 0;
 }
 
 section.contact div.info div.social li {
