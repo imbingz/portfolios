@@ -8,7 +8,8 @@
 5. [ Screenshots ](#Screenshots)
 6. [ Installation](#Installation)
 7. [ Credits](#Credits)
-8. [ License ](#objectives)
+8. [What I've Learned](#learned)
+9. [ License ](#License)
 
 
 <a name="context"></a>
@@ -75,15 +76,25 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 * [Free icons-icon8.com](https://icons8.com/)
 * [Free photos-unsplash.com](https://unsplash.com/)
 * [YouTube-Bootstrap Video](https://youtu.be/zhllkjYYUVE)
+* [Youtube - UI Design Fundamentals](https://youtu.be/tRpoI6vkqLs)
 * [Inspiration-behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
 * [Inspiration-canva.com](https://www.canva.com)
 * [Inspiration-cobidev.com](https://cobidev.com/)
 * [User-Journey v.s User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
 * [Typographic Web design](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
 * [How to write README](https://github.com/matiassingers/awesome-readme)
+* [Code validator](https://validator.w3.org/)
 
-<a name="objectives"></a>
-### 8. License
+<a name="learned"></a>
+### 8. What I've Learned
+* It needs more than just clean codes to achieve a beautiful website. After learning how to build the components like navbar, cards and forms etc., how large or small should they be, and where best shall I place them to optimize user experience and interactions?   Thankfully there are great resources out there on this topic, which helped me enormously. 
+
+* Deploy the website on Github page from the beginning so that I can check my codes on the code validator (listed in credit) often throughout the project. I did not do that until the very last. Although I had spent hours to look for errors, open element through my project, code validator showed me 16 initial errors from missing tags, to wrong or unnecessary ARIA labels. It could have saved me a lot of time had I checked my codes earlier. 
+
+* Practice! Practice! Practice! I know it is cliche; it is the undebatable fact! I watched hours of Youtube tutorials on how to build responsive mobile-first website with Bootstrap and felt confident that I got this until I started to code myself. The codes I copied line by line from Youtube tutorial diid not achieve the same outcomes as the videos showed and it is great learning process to figure out why. Google is truly my BEST friend now.  
+
+<a name="License"></a>
+### 9. License
 
 ##### MIT License
 <p>Copyright (c) [2020] [bingzhang]</p>
