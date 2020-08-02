@@ -21,16 +21,19 @@ It is NOT optimized for extreme large screens such as Apple iMac 27
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 ### Screenshots - Laptop view 
-![laptopView-1] (assets/images/s1.png)
-![laptopView-2] (assets/images/s2.png)
-![laptopView-3] (assets/images/s3.png)
-![laptopView-4] (assets/images/s4.png)
+![laptop-view-1](./assets/images/s1.jpg)
 
 ### Screenshots - Mobile View
 ![mobileView-1] (assets/images/m7.jpg)
 ![mobileView-2] (assets/images/m1.jpg)
 ![mobileView-3] (assets/images/m2.jpg)
 ![mobileView-4] (assets/images/m5.jpg)
+
+
+### Screenshots - Mobile Viewport
+![Mobile-Screenshot-1](screenshots/Screenshot1.png)
+![Mobile-Screenshot-2](screenshots/screenshot2.png)
+![Mobile-Screenshot-3](screenshots/screenshot3.png)
 
 ### Installation
 * Access to GitHub.com and a code editor such as vscode is necessary
