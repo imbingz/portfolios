@@ -1,7 +1,7 @@
 # Responsive-Website-Portfolio
 
 ### Project context
-<br/>  
+<br/>
 A website that will showcase my future projects along with information about myself.
 
 ### Project objectives
