@@ -21,7 +21,7 @@ It is NOT optimized for extreme large screens such as Apple iMac 27
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 ### Screenshots - Laptop view 
-![screenshot1](assets/images/s1.jpg)
+![screenshot1](assets/images/s1.png)
 
 
 ### Screenshots - Mobile View
