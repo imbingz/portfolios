@@ -76,7 +76,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 * [Free icons-icon8.com](https://icons8.com/)
 * [Free photos-unsplash.com](https://unsplash.com/)
 * [YouTube-Bootstrap Video](https://youtu.be/zhllkjYYUVE)
-* [Youtube - UI Design Fundamentals](https://youtu.be/tRpoI6vkqLs)
+* [YouTube-UI Design Fundamentals](https://youtu.be/tRpoI6vkqLs)
 * [Inspiration-behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
 * [Inspiration-canva.com](https://www.canva.com)
 * [Inspiration-cobidev.com](https://cobidev.com/)
