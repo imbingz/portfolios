@@ -20,15 +20,15 @@ It is NOT optimized for extreme large screens such as Apple iMac 27
 ### Link to the Working files 
 https://github.com/imbingz/Responsive-Website-Portfolio
 
-###Screenshots - Laptop view 
+### Screenshots - Laptop view 
 [laptopView]
 
-###Screenshots - Mobile View
+### Screenshots - Mobile View
 [mobileView-1]
 [mobileView-1]
 [mobileView-1]
 
-###Installation
+### Installation
 * Access to GitHub.com and a code editor such as vscode is necessary
 * Go to [github.com/imbingz/imbingz.github.io.](https://github.com/imbingz/Responsive-Website-Portfolio)
 * Click on the green button that says Clone or Download
@@ -38,7 +38,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 
-###Credits:
+### Credits:
 [getbootstrap.com]https://getbootstrap.com/docs/4.0/getting-started/introduction/
 [fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
 [favicon-generator.org]https://www.favicon-generator.org/
