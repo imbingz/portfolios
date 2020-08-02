@@ -4,46 +4,47 @@
 1. [ Project Context ](#context)
 2. [ Project Objectives ](#objectives)
 3. [ Tools Used ](#tools)
-3. [ Project Objectives ](#objectives)
-3. [ Project Objectives ](#objectives)
-3. [ Project Objectives ](#objectives)
-3. [ Project Objectives ](#objectives)
-3. [ Project Objectives ](#objectives)
-
-<a name="tools"></a>
-## 1. Description
+4. [ Project Links ](#Links)
+5. [ Screenshots ](#Screenshots)
+6. [ Installation](#Installation)
+7. [ Credits](#Credits)
+8. [ License ](#objectives)
 
 
 <a name="context"></a>
-### Project Context
+### 1. Project Context
 A website that will showcase my future projects along with information about myself.
 
 <a name="objectives"></a>
-### Project Objectives
+### 2. Project Objectives
  * Use Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
  * Use Bootstrap4 to make a sticky footer 
  * Apply Bootstrap4 sub-rows and sub-columns 
 
 <a name="tools"></a>
-### This website uses HTML5, CSS3 and Bootstrap4
+### 3. This website uses HTML5, CSS3 and Bootstrap4
 * It is optimized for SEO and ARIA accessibility 
 * It is responsive to different screen sizes of devices such as mobile, tablet, and desktop.
 * It is NOT optimized for extreme large screens such as Apple iMac 27
 
-### Link to the Website
+<a name="Links"></a>
+### 4. Link - Project Website
  https://imbingz.github.io/Responsive-Website-Portfolio/
 
-### Link to the Working files 
+### Link - Project files 
 https://github.com/imbingz/Responsive-Website-Portfolio
 
-### Screenshots - Laptop view 
+<a name="Screenshots"></a>
+### 5. Screenshots 
+
+####  Screenshots - Laptop view 
 ![screenshot1](assets/images/s1.png)
 ![screenshot2](assets/images/s2.png)
 ![screenshot3](assets/images/s3.png)
 ![screenshot4](assets/images/s4.png)
 
 
-### Screenshots - Mobile View
+#### Screenshots - Mobile View
 ![mobileView-1](assets/images/m7.jpg)
 ![mobileView-2](assets/images/m1.jpg)
 ![mobileView-3](assets/images/m2.jpg)
@@ -54,8 +55,8 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 
-
-### Installation
+<a name="Installation"></a>
+### 6. Installation
 * Access to GitHub.com and a code editor such as vscode is necessary
 * Go to [github.com/imbingz/imbingz.github.io.](https://github.com/imbingz/Responsive-Website-Portfolio)
 * Click on the green button that says Clone or Download
@@ -64,8 +65,8 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 * Using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and and open it. All the files for the website will be within this folder. Click on index.html to open the website in the browser.
 
 
-
-### Credits:
+<a name="Credits"></a>
+### 7. Credits:
 * [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * [favicon-generator.org](https://www.favicon-generator.org/)
 * [fonts.google.com](https://fonts.google.com/)
@@ -80,8 +81,8 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 * [Typographic Web design](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
 * [How to write README](https://github.com/matiassingers/awesome-readme)
 
-
-### License
+<a name="objectives"></a>
+### 8. License
 
 ##### MIT License
 <p>Copyright (c) [2020] [bingzhang]</p>
