@@ -3,7 +3,7 @@
 ## Table of Content
 1. [ Project Context ](#context)
 2. [ Project Objectives ](#objectives)
-3. [ Tools Used ](#tools)
+3. [ Tools/Skills Used ](#tools)
 4. [ Project Links ](#Links)
 5. [ Screenshots ](#Screenshots)
 6. [ Installation](#Installation)
