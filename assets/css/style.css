@@ -16,8 +16,9 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 body {
     font-family: Montserrat, Lato, sans-serif;
     font-size: 16px;
-    padding-bottom: 80px;
+    padding-bottom: 150px;
 }
+
 
 /* Introduction Section-1*/
 
@@ -114,14 +115,13 @@ section.contact div.title h1, section.contact div.title h3, section.contact div.
     font-size: 3rem;
 } */
 
-section.contact div.info {
-    margin: 25% 0 15%;
-}
+
 
 section.contact div.info {
     background-color: #efefef;
     padding: 2% 0;
 }
+
 section.contact div.info div.social li {
     list-style: none;
 }

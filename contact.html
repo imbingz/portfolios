@@ -90,7 +90,7 @@
         </div>
       </div>
       <div class="container-fluid info my-5" id="info">
-        <div class="row d-flex flex-row justify-content-around my-5">
+        <div class="row d-flex flex-row justify-content-around">
           <div class="col-md-4 col-sm-12">
             <div class="d-flex flex-column justify-content-center align-items-center">
               <i class="fa fa-envelope fa-3x my-4" aria-hidden="true"></i>
@@ -142,15 +142,18 @@
 
   <!-- Sticky Footer -->
   <footer class="mt-auto" id="footer">
-      <ul class="nav navbar fixed-bottom bg-dark row d-flex flex-row align-items-baseline pt-3">
-        <div class="col-md-6 col-sm-12">
-          <li class="nav-item"></li>
+    <div class="nav navbar fixed-bottom bg-dark row d-flex flex-row align-items-baseline pt-3">
+      <div class="col-md-6 col-sm-12">
+        <ul>
+          <li class="nav-item">
             <p class="copyright text-light text-center">
-              All rights reserved &copy 2020  |  Bing Zhang
+              All rights reserved &copy; 2020  |  Bing Zhang
             </p>
           </li>
-        </div>
-        <div class="col-md-6 col-sm-12 d-flex flex-row align-items-baseline justify-content-around">      
+        </ul>
+      </div>
+      <div class="col-md-6 col-sm-12">
+        <ul class="d-flex flex-row align-items-baseline justify-content-around">
           <li class="nav-item">
             <a class="text-light email" href="mailto:bingz@me.com" aria-pressed="true">Email: bingz@me.com</a>
           </li>
@@ -175,9 +178,10 @@
             class="fa fa-instagram">
             </a>
           </li>
-        </div>
-      </ul>       
-    </footer>
+        </ul>
+      </div>
+    </div>       
+  </footer>    
 
   <!-- Bootstrap Jquery scripts -->
 
