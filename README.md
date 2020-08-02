@@ -91,7 +91,11 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 * Deploy the website on Github page from the beginning so that I can check my codes on the code validator (listed in credit) often throughout the project. I did not do that until the very last. Although I had spent hours to look for errors, open element through my project, code validator showed me 16 initial errors from missing tags, to wrong or unnecessary ARIA labels. It could have saved me a lot of time had I checked my codes earlier. 
 
+* Define the element classes strategically can help make the CSS style sheet cleaner when building mulitple pages. While styling multiple pages in one CSS (for the first time), I realised that some of the elements such as h1-h6, images, and a etc. share the same styles and it would save me time by giving them a shared class so that I don't have to repeat. At the same time the classes need to be specific enough on different page; otherwise I could end up with unintended styling for the same element on different page (which happend) and could not figure out why the element does not display what I styled it for (thinking what is wrong with my computer) :-)
+
 * Practice! Practice! Practice! I know it is cliche; it is the undebatable fact! I watched hours of Youtube tutorials on how to build responsive mobile-first website with Bootstrap and felt confident that I got this until I started to code myself. The codes I copied line by line from Youtube tutorial diid not achieve the same outcomes as the videos showed and it is great learning process to figure out why. Google is truly my BEST friend now.  
+
+
 
 <a name="License"></a>
 ### 9. License
