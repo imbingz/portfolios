@@ -21,17 +21,18 @@ body {
 
 /* Introduction Section-1*/
 
+/* This sytles all section-1 of all pages */
 section.section-1  {
     margin-bottom: 10%;
 }
 
-section div.title {
-    padding: 20%  5% 15% 0;
-
+/* This styles all section-1 h1 of all pages */
+section.section-1 h1 {
+    font-size: 3rem;
 }
 
-section.introduction h1 {
-    font-size: 3rem;
+section div.title {
+    padding: 20%  5% 15% 0;
 }
 
 section.introduction h1 span.bing {
@@ -75,12 +76,13 @@ footer p.copyright, li a.email {
 
 /* portfolio.html main section */
 
-section.tech-skills h1 {
-    font-size: 2.95rem;
-}
-section.tech-skills img { 
-    padding-top: 18%;
-}
+/* section.tech-skills h1 {
+    font-size: 3rem;
+} */
+/* section.tech-skills img { 
+    padding-top:30%;
+
+} */
 
 /* portfolio.html project section */
 
@@ -100,9 +102,9 @@ section.contact div.title h1, section.contact div.title h3, section.contact div.
     margin-left: 18%;
 }
 
-section.contact div.title h1 {
+/* section.contact div.title h1 {
     font-size: 3rem;
-}
+} */
 
 section.contact div.info {
     margin: 25% 0 15%;
