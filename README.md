@@ -19,7 +19,7 @@ A website that will showcase my future projects along with information about mys
 <a name="objectives"></a>
 ### 2. Project Objectives
  * Use Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
- * Use Bootstrap4 to make a sticky footer 
+ * Use Bootstrap4 to make a sticky or fixed footer 
  * Apply Bootstrap4 sub-rows and sub-columns 
 
 <a name="tools"></a>
