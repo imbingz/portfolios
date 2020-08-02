@@ -10,9 +10,9 @@ A website that will showcase my future projects along with information about mys
 
 
 ### This website uses HTML5, CSS3 and Bootstrap4
-It is optimized for SEO and ARIA accessibility 
-It is optimized for different devices such as mobile, tablet, and desktop.
-It is NOT optimized for extreme large screens such as Apple iMac 27
+* It is optimized for SEO and ARIA accessibility 
+* It is responsive to different screen sizes of devices such as mobile, tablet, and desktop.
+* It is NOT optimized for extreme large screens such as Apple iMac 27
 
 ### Link to the Website
  https://imbingz.github.io/Responsive-Website-Portfolio/
