@@ -14,7 +14,7 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 }
 
 body {
-    font-family: Lato, Montserrat, sans-serif;
+    font-family: Montserrat, Lato, sans-serif;
     font-size: 16px;
     padding-bottom: 80px;
 }
@@ -31,13 +31,18 @@ section.section-1 h1 {
     font-size: 3rem;
 }
 
+/* This styles all link buttons of all pages */
+section.section-1 a.btn, section.section-2 a.btn {
+    font-size: 1.2rem;
+    border: 1px solid #bd2640;
+}
 section div.title {
     padding: 20%  5% 15% 0;
 }
 
 section.introduction h1 span.bing {
-    font-size: 4rem; 
-    font-family: "Montserrat";
+    font-size: 3.5rem; 
+    font-family: "Lato";
     color: #3f6cb2;
 }
 
@@ -59,19 +64,17 @@ section.about p {
 section.about p span.h {
     font-size: 1.5rem;
     color: #bd2640;
-    font-family: "Montserrat";
 }
 
 section.about p span.i {
     font-size: 1.5rem;
     color: #3f6cb2;
-    font-family: "Montserrat";
 }
 
 /* footer  */
-footer p.copyright, li a.email {
+footer p.copyright, footer li a.email {
     font-size: 0.75rem;
-    letter-spacing: 1px;
+    letter-spacing: 0.9px;
 }
 
 /* portfolio.html main section */
@@ -90,6 +93,10 @@ section.projects div.card-img-top {
     width: 100%;
     height: 24rem;
     /* object-fit: cover; */
+}
+
+section.projects .card p {
+    color: #838383;
 }
 
 /* Contact.html styling */
