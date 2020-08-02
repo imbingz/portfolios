@@ -31,10 +31,10 @@ A website that will showcase my future projects along with information about mys
 <a name="Links"></a>
 ### 4. Project Links
 
-#### Website
+#### Website Link
  https://imbingz.github.io/Responsive-Website-Portfolio/
 
-#### Work files 
+#### Work-Files Link
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 <a name="Screenshots"></a>
