@@ -34,7 +34,7 @@ A website that will showcase my future projects along with information about mys
 #### Website
  https://imbingz.github.io/Responsive-Website-Portfolio/
 
-#### files 
+#### Work files 
 https://github.com/imbingz/Responsive-Website-Portfolio
 
 <a name="Screenshots"></a>
