@@ -19,12 +19,23 @@ body {
     padding-bottom: 150px;
 }
 
+/* footer for all pages  */
 
-/* Introduction Section-1*/
+footer ul.copyright p, footer li a.email {
+    font-size: 0.75rem;
+    letter-spacing: 0.9px;
+}
+
+footer ul.social li {
+    list-style: none;
+}
+
+
+/* Start of shared styling  */
 
 /* This sytles all section-1 of all pages */
 section.section-1  {
-    margin-bottom: 10%;
+    margin-bottom: 7%;
 }
 
 /* This styles all section-1 h1 of all pages */
@@ -44,6 +55,15 @@ section div.title {
     padding: 20%  5% 15% 0;
 }
 
+/* This styles all section-2 of all pages */
+/* section.section-2 {
+    margin: 15% 0;
+} */
+
+/* End of shared styling */
+
+
+/* index.html Introduction Section-1*/
 section.introduction h1 span.bing {
     font-size: 3.5rem; 
     font-family: "Lato";
@@ -55,16 +75,16 @@ section.introduction img {
     /* padding: 20% 0 15% 15%;  */
 }
 
-/* index.html- About Me Section */
+/* index.html- About Me Section-2*/
 section.about {
-    margin-bottom: 8%;
+    margin: 8% 0;
 }
 section.about img {
     padding-bottom: 10%;
 }
 
 section.about p {
-    line-height: 150%;
+    line-height: 152%;
 }
 section.about p span.h {
     font-size: 1.5rem;
@@ -76,17 +96,6 @@ section.about p span.i {
     color: #3f6cb2;
 }
 
-/* footer  */
-
-
-footer ul.copyright p, footer li a.email {
-    font-size: 0.75rem;
-    letter-spacing: 0.9px;
-}
-
-footer ul.social li {
-    list-style: none;
-}
 
 /* portfolio.html main section */
 
@@ -111,10 +120,11 @@ section.projects .card p {
 }
 
 /* Contact.html styling */
-section.contact div.title {
+
+/* section.contact div.title {
     padding-top: 15%;
     margin-bottom: 28%;
-}
+} */
 
  /* section.contact div.title h1, ection.contact div.title h3, section.contact div.title a {
     margin-left: 8%;
