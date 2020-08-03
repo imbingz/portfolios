@@ -124,12 +124,18 @@ section.contact div.title {
     font-size: 3rem;
 } */
 
-section.contact div.info {
+section.contact #info {
     background-color: #efefef;
     padding: 2% 0;
     margin: 15% 0;
 }
 
-section.contact div.info div.social li {
+section.contact #info a.info-link{
+    font-weight: 500;
+    font-size: 0.9rem;
+    letter-spacing: 0.075rem;
+}
+
+section.contact #info div.social li {
     list-style: none;
 }
