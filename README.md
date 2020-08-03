@@ -3,7 +3,7 @@
 ## Table of Content
 1. [ Project Context ](#context)
 2. [ Project Objectives ](#objectives)
-3. [ Tools/Skills Used ](#tools)
+3. [ Outcome ](#Outcome)
 4. [ Project Links ](#Links)
 5. [ Screenshots ](#Screenshots)
 6. [ Installation](#Installation)
@@ -18,12 +18,14 @@ A website that will showcase my future projects along with information about mys
 
 <a name="objectives"></a>
 ### 2. Project Objectives
- * Use Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
- * Use Bootstrap4 to make a sticky or fixed footer 
+ * Use HTML5, CSS3 and Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
+ * Use Bootstrap4 to make a sticky or fixed footer
  * Apply Bootstrap4 sub-rows and sub-columns 
+ * Apply HTML5 semantic structure and ARIA accessability rules and guidelines
+ * Of course all components (such as navbar) across all pages on the site should maintain consistency and all links should work. 
 
 <a name="tools"></a>
-### 3. This website uses HTML5, CSS3 and Bootstrap4
+### 3. Outcome
 * It is optimized for SEO and ARIA accessibility 
 * It is responsive to different screen sizes of devices such as mobile, tablet, and desktop.
 * It is NOT optimized for extreme large screens such as Apple iMac 27
@@ -70,21 +72,25 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 <a name="Credits"></a>
 ### 7. Credits:
+
+<p>I would like to express my gratitude to the following parties without whom I would not possibly complete this project. A beautiful website takes much more than just clean codes and I appreciate the collaboration of people from different domains and expertise more than ever. </p>
 * [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [How to write README](https://github.com/matiassingers/awesome-readme)
 * [favicon-generator.org](https://www.favicon-generator.org/)
 * [fonts.google.com](https://fonts.google.com/)
 * [Free icons-fontawesome.com](https://fontawesome.com/v4.7.0/get-started/)
 * [Free icons-icon8.com](https://icons8.com/)
 * [Free photos-unsplash.com](https://unsplash.com/)
-* [YouTube-Bootstrap Video](https://youtu.be/zhllkjYYUVE)
-* [YouTube-UI Design Fundamentals](https://youtu.be/tRpoI6vkqLs)
+* [Code validator](https://validator.w3.org/)
 * [Inspiration-behance.net](https://www.behance.net/collection/178220473/Portfolio-website)
 * [Inspiration-canva.com](https://www.canva.com)
 * [Inspiration-cobidev.com](https://cobidev.com/)
+* [YouTube-Bootstrap Video](https://youtu.be/zhllkjYYUVE)
+* [YouTube-UI Design Fundamentals](https://youtu.be/tRpoI6vkqLs)
 * [User-Journey v.s User-flow](https://xd.adobe.com/ideas/process/user-research/user-journey-vs-user-flow/)
 * [Typographic Web design](http://www.typographicwebdesign.com/setting-text/font-size-line-height-measure-alignment/#:~:text=Line%20height%20controls%20the%20amount,like%20a%20tightly%20woven%20fabric)
-* [How to write README](https://github.com/matiassingers/awesome-readme)
-* [Code validator](https://validator.w3.org/)
+
+
 
 <a name="learned"></a>
 ### 8. What I've Learned
