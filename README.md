@@ -1,4 +1,4 @@
-# Responsive-Website-Portfolio
+# Responsive-Portfolio-Website
 
 ## Table of Content
 1. [ Project Context ](#context)
