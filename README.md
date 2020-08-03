@@ -73,7 +73,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 <a name="Credits"></a>
 ### 7. Credits:
 
-I would like to express my gratitude to the following parties without whom I would not possibly complete this project. A beautiful website takes much more than just clean codes and I appreciate the collaboration of people from different domains and expertise more than ever.
+I would like to express my gratitude to the following parties without whom I would not possibly complete this project. A special Thank You to my dear friend Andy Belk for helping me improve my work by providing me constructive feedback. A beautiful website takes much more than just clean codes and I appreciate the collaboration of people from different domains and expertise more than ever.
 #
 * [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * [How to write README](https://github.com/matiassingers/awesome-readme)
