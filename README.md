@@ -53,10 +53,10 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 
 ####  Screenshots - Laptop view 
-![screenshot1](assets/images/s1.png)
-![screenshot2](assets/images/s2.png)
-![screenshot3](assets/images/s3.png)
-![screenshot4](assets/images/s4.png)
+<kbd>![screenshot1](assets/images/s1.png)</kbd>
+<kbd>![screenshot2](assets/images/s2.png)</kbd>
+<kbd>![screenshot3](assets/images/s3.png)</kbd>
+<kbd>![screenshot4](assets/images/s4.png)</kbd>
 
 
 
