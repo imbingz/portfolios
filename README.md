@@ -22,7 +22,7 @@ A website that will showcase my future projects along with information about mys
  * Use Bootstrap4 to make a sticky or fixed footer
  * Apply Bootstrap4 sub-rows and sub-columns 
  * Apply HTML5 semantic structure and ARIA accessability rules and guidelines
- * Of course all components (such as navbar) across all pages on the site should maintain consistency and all links should work. 
+ * All components (such as navbar and footer etc.) across all pages on the site should maintain consistency and all links should work. 
 
 <a name="tools"></a>
 ### 3. Outcome
@@ -73,7 +73,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 <a name="Credits"></a>
 ### 7. Credits:
 
-I would like to express my gratitude to the following parties without whom I would not possibly complete this project. A special Thank You to my dear friend Andy Belk for helping me improve my work by providing me constructive feedback. A beautiful website takes much more than just clean codes and I appreciate the collaboration of teams more than ever.
+I would like to express my gratitude to the following parties without whom I would not have possibly completed this project as is. A special Thank You to my dear friend Andy Belk for helping me improve my work by providing me constructive feedback. A beautiful website takes much more than just clean codes and I appreciate the collaboration of teams more than ever.
 #
 * [getbootstrap.com](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 * [How to write README](https://github.com/matiassingers/awesome-readme)
