@@ -15,8 +15,8 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 }
 
 body {
-    font-family: "Noto Sans", Roboto, Montserrat, Lato, "Open Sans";
-    font-size: 16px;
+    font-family: "Open Sans", "Noto Sans", Roboto, Montserrat, Lato;
+    font-size: 17px;
     padding-bottom: 150px;
 }
 
@@ -150,7 +150,7 @@ section.contact #info {
 section.contact #info a.info-link{
     font-weight: 500;
     font-size: 0.9rem;
-    letter-spacing: 0.075rem;
+    letter-spacing: 0.07rem;
 }
 
 section.contact #info div.social li {
