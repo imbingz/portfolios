@@ -21,7 +21,7 @@ A website that will showcase my future projects along with information about mys
  * Use HTML5, CSS3 and Bootstrap4 to build a mobile-first responsive personal Website without using media query. 
  * Use Bootstrap4 to make a sticky or fixed footer
  * Apply Bootstrap4 sub-rows and sub-columns 
- * Apply HTML5 semantic structure and ARIA accessability rules and guidelines
+ * Apply HTML5 semantic structure and ARIA accessibility rules and guidelines
  * All components (such as navbar and footer etc.) across all pages on the site should maintain consistency and all links should work. 
 
 <a name="tools"></a>
@@ -67,7 +67,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 * Click on the green button that says Clone or Download
 * Choose how you would like to download: using the SSH/HTTPS keys or download the zip file
 * Using SSH/HTTPS Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. Once you have cloned the git repo, cd into the repo and type open. to open the folder which contains all files used for the website. Once inside the folder, click on index.html to open the website in the browser.
-* Using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and and open it. All the files for the website will be within this folder. Click on index.html to open the website in the browser.
+* Using Download ZIP: Click on Download Zip. Locate the file and double click it to unzip the file. Locate the unzipped folder and open it. All the files for the website will be within this folder. Click on index.html to open the website in the browser.
 
 
 <a name="Credits"></a>
@@ -99,7 +99,7 @@ I would like to express my gratitude to the following parties without whom I wou
 
 * Deploy the website on Github page from the beginning so that I can check my codes on the code validator (listed in credit) often throughout the project. I did not do that until the very last. Although I had spent hours to look for errors, open element through my project, code validator showed me 16 initial errors from missing tags, to wrong or unnecessary ARIA labels. It could have saved me a lot of time had I checked my codes earlier. 
 
-* Define the element classes strategically can help make the CSS style sheet cleaner when building mulitple pages. While styling multiple pages in one CSS (for the first time), I realised that some of the elements such as h1-h6, images, and a etc. share the same styles and it would save me time by giving them a shared class so that I don't have to repeat. At the same time the classes need to be specific enough on different page; otherwise I could end up with unintended styling for the same element on different page (which happend) and could not figure out why the element does not display what I styled it for (thinking what is wrong with my computer) :-)
+* Define the element classes strategically can help make the CSS style sheet cleaner when building multiple pages. While styling multiple pages in one CSS (for the first time), I realized that some of the elements such as h1-h6, images, and etc. share the same styles and it would save me time by giving them a shared class so that I don't have to repeat. At the same time the classes need to be specific enough on different page; otherwise I could end up with unintended styling for the same element on different page (which happened) and could not figure out why the element does not display what I styled it for (thinking what is wrong with my computer) :-)
 
 * Practice! Practice! Practice! I know it is cliche; it is the undebatable fact! I watched hours of Youtube tutorials on how to build responsive mobile-first website with Bootstrap and felt confident that I got this until I started to code myself. The codes I copied line by line from Youtube tutorial diid not achieve the same outcomes as the videos showed and it is great learning process to figure out why. Google is truly my BEST friend now.  
 
@@ -112,6 +112,6 @@ I would like to express my gratitude to the following parties without whom I wou
 <p>Copyright (c) [2020] [bingzhang]</p>
 <p>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</p>
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
-<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+<p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <hr>
 August 1, 2020.
