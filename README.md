@@ -95,13 +95,13 @@ I would like to express my gratitude to the following parties without whom I wou
 
 <a name="learned"></a>
 ### 8. What I've Learned
-* It needs more than just clean codes to achieve a beautiful website. After learning how to build the components like navbar, cards and forms etc., how large or small should they be, and where best shall I place them to optimize user experience and interactions?   Thankfully there are great resources out there on this topic, which helped me enormously. 
+* It needs more than just clean codes to achieve a beautiful website. After learning how to build the components like navbar, cards and forms etc., how large or small should they be, and where best shall I place them to optimize user experience and interactions? Thankfully there are great resources out there on this topic, which helped me enormously. 
 
-* Deploy the website on Github page from the beginning so that I can check my codes on the code validator (listed in credit) often throughout the project. I did not do that until the very last. Although I had spent hours to look for errors, open element through my project, code validator showed me 16 initial errors from missing tags, to wrong or unnecessary ARIA labels. It could have saved me a lot of time had I checked my codes earlier. 
+* Deploy the website on Github page from the beginning so that I can check my codes on the code validator (listed in credit) often throughout the project. I did not do that until the very last minute. Although I had spent hours to look for errors, unclosed elements through my project, code validator showed me 16 initial errors from missing tags, to wrong or unnecessary ARIA labels. It could have saved me a lot of time had I checked my codes earlier. 
 
 * Define the element classes strategically can help make the CSS style sheet cleaner when building multiple pages. While styling multiple pages in one CSS (for the first time), I realized that some of the elements such as h1-h6, images, and etc. share the same styles and it would save me time by giving them a shared class so that I don't have to repeat. At the same time the classes need to be specific enough on different page; otherwise I could end up with unintended styling for the same element on different page (which happened) and could not figure out why the element does not display what I styled it for (thinking what is wrong with my computer) :-)
 
-* Practice! Practice! Practice! I know it is cliche; it is the undebatable fact! I watched hours of Youtube tutorials on how to build responsive mobile-first website with Bootstrap and felt confident that I got this until I started to code myself. The codes I copied line by line from Youtube tutorial diid not achieve the same outcomes as the videos showed and it is great learning process to figure out why. Google is truly my BEST friend now.  
+* Practice! Practice! Practice! I know it is cliche; it is the undebatable fact! I watched hours of Youtube tutorials on how to build responsive mobile-first website with Bootstrap and felt confident that I got this until I started to code myself. The codes I copied line by line from Youtube tutorial did not achieve the same outcomes as shown in the videos and it is a great learning process to figure out why on my own. Google is truly my BEST friend now.  
 
 
 
