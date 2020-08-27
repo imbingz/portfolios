@@ -1,5 +1,4 @@
 # Responsive-Portfolio-Website
-
 ## Table of Content
 1. [ Project Context ](#context)
 2. [ Project Objectives ](#objectives)
