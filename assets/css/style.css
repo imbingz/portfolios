@@ -46,9 +46,9 @@ section.section-1 {
 }
 
 /* This styles all section-1 h1 of all pages */
+
 section.section-1 h1 {
 	font-size: 3rem;
-	/* font-family: "Noto Sans" */
 }
 
 /* This styles all link buttons of all pages */
@@ -61,7 +61,7 @@ section.section-2 a.btn {
 
 /* This styles all titles of all pages */
 section div.title {
-	padding: 20% 5% 15% 0;
+	padding: 15% 5% 15% 0;
 }
 
 
@@ -74,7 +74,8 @@ section.introduction h1 span.bing {
 }
 
 section.introduction img {
-	margin: 20% 0 15%;
+	margin: 15% 0 15%;
+	min-width: 100%;
 }
 
 /* index.html- About Me Section-2*/
@@ -121,7 +122,7 @@ section.projects div.card-img-top {
 
 section.projects div.card-img-top .video {
 	display: inline-block;
-	width: 60%;
+	width: 50%;
 	margin-left: 7vw;
 
 }
@@ -156,16 +157,31 @@ section.contact #info div.social li {
 
 /* Media query */
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1024px) {
+
+	section div.title {
+	padding: 20% 5% 15% 0;
+}
 
 	section.introduction .profile-img {
-		margin: 50% 0 0;
+		margin: 25% 0 0;
+	}
+
+	section.projects div.card-img-top .video {
+		display: inline-block;
+		width: 60%;
+		margin-left: 7vw;
 	}
 }
 
 @media only screen and (max-width: 800px) {
+ section.introduction .profile-img {
+		margin-top: 55%;
+	}
+
+
 	section.introduction div.title {
-		padding: 20% 5% 15% 0;
+		padding-top: 20%;
 	}
 
 	section.about .deco-img {
@@ -182,7 +198,7 @@ section.contact #info div.social li {
 @media only screen and (max-width: 600px) {
 
 	section.introduction div.title {
-		padding: 43% 5% 15% 0;
+		padding: 35% 5% 15% 0;
 	}
 
 	section.about .deco-img {
@@ -194,22 +210,31 @@ section.contact #info div.social li {
 	}
 
 	section.tech-skills div.title {
-		margin-top: 10%;
+		margin-top: 8%;
 		padding-right: 10%;
 	}
 
 	section.projects div.card-img-top .video {
 		display: inline-block;
-		width: 60%;
-		margin-left: 15vw;
+		width: 65%;
+		margin-left: 13vw;
 	}
 
 	section.contact div.title {
-		margin-top: 35%;
+		margin-top: 20%;
 		padding-right: 10%;
 	}
 
-#footer div.contact {
-	display: none;
+	#footer div.contact {
+		display: none;
+	}
 }
+
+@media only screen and (max-width: 420px) {
+
+	section.projects div.card-img-top .video {
+		display: inline-block;
+		width: 75%;
+		margin-left: 8.5vw;
+	}
 }
