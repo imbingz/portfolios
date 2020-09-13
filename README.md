@@ -1,14 +1,14 @@
 # Responsive-Portfolio-Website
-
 ## Table of Content
+ 
 1. [ Project Context ](#context)
 2. [ Project Objectives ](#objectives)
 3. [ Outcome ](#Outcome)
-4. [ Project Links ](#Links)
+4.  [ Project Links ](#Links)
 5. [ Screenshots ](#Screenshots)
 6. [ Installation](#Installation)
-7. [ Credits](#Credits)
-8. [What I've Learned](#learned)
+7. [Challenges & What I've Learned](#learned)
+8.[ Credits](#Credits)
 9. [ License ](#License)
 #
 
