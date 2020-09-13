@@ -60,7 +60,7 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 <a name="Installation"></a>
 ### 6. Installation
 * Access to GitHub.com and a code editor such as vscode is necessary
-* Go to [github.com/imbingz/imbingz.github.io.](https://github.com/imbingz/Responsive-Website-Portfolio)
+* Go to [https://github.com/imbingz/Responsive-Website-Portfolio](https://github.com/imbingz/Responsive-Website-Portfolio)
 * Click on the green button that says Clone or Download
 * Choose how you would like to download: using the SSH/HTTPS keys or download the zip file
 * Using SSH/HTTPS Key: You will copy the link shown and open up either terminal (mac: pre-installed) or gitbash (pc: must be installed). Once the application is open, you will type git clone paste url here. Once you have cloned the git repo, cd into the repo and type open. to open the folder which contains all files used for the website. Once inside the folder, click on index.html to open the website in the browser.
