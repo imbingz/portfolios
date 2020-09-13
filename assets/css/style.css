@@ -35,6 +35,11 @@ footer ul.social li {
 
 /* Start of shared styling  */
 
+/* This styles navbar of all pages */
+header nav.navbar {
+	padding: 2% 8% 1% 3%;
+}
+
 /* This sytles all section-1 of all pages */
 section.section-1 {
 	margin-bottom: 7%;
@@ -59,10 +64,6 @@ section div.title {
 	padding: 20% 5% 15% 0;
 }
 
-/* This styles all section-2 of all pages */
-/* section.section-2 {
-    margin: 15% 0;
-} */
 
 /* End of shared styling */
 
@@ -78,8 +79,15 @@ section.introduction img {
 
 /* index.html- About Me Section-2*/
 section.about {
-	margin: 8% 0;
+	margin: 5% 2%;
 }
+
+section.about #about-space {
+	width: 100%;
+	height: 10vh;
+	margin: 3% 0;
+}
+
 section.about img {
 	padding-bottom: 10%;
 }
@@ -87,6 +95,7 @@ section.about img {
 section.about p {
 	line-height: 155%;
 	font-family: "Roboto";
+	padding-right: 10%;
 }
 section.about p span.h {
 	font-size: 1.5rem;
@@ -110,9 +119,9 @@ section.projects div.card-img-top {
 	height: 24rem;
 }
 
-	section.projects div.card-img-top .video {
+section.projects div.card-img-top .video {
 	display: inline-block;
-	width: 50%;
+	width: 60%;
 	margin-left: 7vw;
 
 }
@@ -123,10 +132,16 @@ section.projects .card p {
 
 /* Contact.html styling */
 
+section.contact #info-space {
+	padding: 0;
+	width: 100%;
+	height: 2.5vh;
+}
+
 section.contact #info {
 	background-color: #efefef;
 	padding: 2% 0;
-	margin: 55% 0 12%;
+	margin: 15% 0 12%;
 }
 
 section.contact #info a.info-link {
@@ -142,12 +157,34 @@ section.contact #info div.social li {
 /* Media query */
 
 @media only screen and (max-width: 1000px) {
+
 	section.introduction .profile-img {
 		margin: 50% 0 0;
 	}
 }
 
+@media only screen and (max-width: 800px) {
+	section.introduction div.title {
+		padding: 20% 5% 15% 0;
+	}
+
+	section.about .deco-img {
+			display: none;
+	}
+
+	section.projects div.card-img-top .video {
+		display: inline-block;
+		width: 80%;
+		margin-left: 3vw;
+	}
+}
+
 @media only screen and (max-width: 600px) {
+
+	section.introduction div.title {
+		padding: 43% 5% 15% 0;
+	}
+
 	section.about .deco-img {
 		display: none;
 	}
@@ -156,11 +193,21 @@ section.contact #info div.social li {
 		margin: 0;
 	}
 
+	section.tech-skills div.title {
+		margin-top: 10%;
+		padding-right: 10%;
+	}
+
 	section.projects div.card-img-top .video {
-	display: inline-block;
-	width: 60%;
-	margin-left: 15vw;
-}
+		display: inline-block;
+		width: 60%;
+		margin-left: 15vw;
+	}
+
+	section.contact div.title {
+		margin-top: 35%;
+		padding-right: 10%;
+	}
 
 #footer div.contact {
 	display: none;
