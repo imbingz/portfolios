@@ -44,9 +44,9 @@ https://github.com/imbingz/Responsive-Website-Portfolio
 
 #### Screenshots - Mobile View
 
-<kbd>![mobileView-1](assets/images/m5.jpg)</kbd>
-<kbd>![mobileView-2](assets/images/m1.jpg)</kbd>
-<kbd>![mobileView-3](assets/images/m2.jpg)</kbd>
+<kbd>![mobileView-1](assets/images/m5.png)</kbd>
+<kbd>![mobileView-2](assets/images/m1.png)</kbd>
+<kbd>![mobileView-3](assets/images/m2.png)</kbd>
 
 
 ####  Screenshots - Laptop view 
@@ -111,4 +111,4 @@ I would like to express my gratitude to the following parties without whom I wou
 <p>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</p>
 <p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
 <hr>
-August 1, 2020.
+September 13, 2020.
