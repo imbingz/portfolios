@@ -1,4 +1,3 @@
-
 /* Import google font families - Lato and Montserrat */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Noto+Sans&family=Noto+Sans+JP:wght@300;400;500&family=Open+Sans:wght@300;400;600&family=Roboto:wght@300;400;500&display=swap');
@@ -8,53 +7,56 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 */
 
 /* reset */
-*, *:before, *:after{
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 body {
-    font-family: "Open Sans", "Noto Sans", Roboto, Montserrat, Lato;
-    font-size: 17px;
-    padding-bottom: 150px;
+	font-family: "Open Sans", "Noto Sans", Roboto, Montserrat, Lato;
+	font-size: 17px;
+	padding-bottom: 150px;
 }
 
 /* footer for all pages  */
 
-footer ul.copyright p, footer li a.email {
-    font-size: 0.75rem;
-    letter-spacing: 0.9px;
+footer ul.copyright p,
+footer li a.email {
+	font-size: 0.75rem;
+	letter-spacing: 0.9px;
 }
 
 footer ul.social li {
-    list-style: none;
+	list-style: none;
 }
-
 
 /* Start of shared styling  */
 
 /* This sytles all section-1 of all pages */
-section.section-1  {
-    margin-bottom: 7%;
+section.section-1 {
+	margin-bottom: 7%;
 }
 
 /* This styles all section-1 h1 of all pages */
 section.section-1 h1 {
-    font-size: 3rem;
-    /* font-family: "Noto Sans" */
+	font-size: 3rem;
+	/* font-family: "Noto Sans" */
 }
 
 /* This styles all link buttons of all pages */
-section.section-1 a.btn, section.section-2 a.btn {
-    font-size: 1.1rem;
-    border: 1px solid #bd2640;
-    font-weight: 500;
+section.section-1 a.btn,
+section.section-2 a.btn {
+	font-size: 1.1rem;
+	border: 1px solid #bd2640;
+	font-weight: 500;
 }
 
 /* This styles all titles of all pages */
 section div.title {
-    padding: 20%  5% 15% 0;
+	padding: 20% 5% 15% 0;
 }
 
 /* This styles all section-2 of all pages */
@@ -64,95 +66,103 @@ section div.title {
 
 /* End of shared styling */
 
-
 /* index.html Introduction Section-1*/
 section.introduction h1 span.bing {
-    font-size: 3.5rem; 
-    /* font-family: "Open Sans"; */
-    color: #3f6cb2;
+	font-size: 3.5rem;
+	color: #3f6cb2;
 }
 
 section.introduction img {
-    margin: 20% 0 15%; 
-    /* padding: 20% 0 15% 15%;  */
+	margin: 20% 0 15%;
 }
 
 /* index.html- About Me Section-2*/
 section.about {
-    margin: 8% 0;
+	margin: 8% 0;
 }
 section.about img {
-    padding-bottom: 10%;
+	padding-bottom: 10%;
 }
 
 section.about p {
-    line-height: 155%;
-    font-family: "Roboto";
+	line-height: 155%;
+	font-family: "Roboto";
 }
 section.about p span.h {
-    font-size: 1.5rem;
-    color: #bd2640;
+	font-size: 1.5rem;
+	color: #bd2640;
 }
 
 section.about p span.i {
-    font-size: 1.5rem;
-    color: #3f6cb2;
+	font-size: 1.5rem;
+	color: #3f6cb2;
 }
 
-
-/* portfolio.html main section */
-
-/* section.tech-skills h1 {
-    font-size: 3rem;
-} */
-/* section.tech-skills img { 
-    padding-top:30%;
-
-} */
 
 /* portfolio.html project section */
 
 section.projects {
-    margin: 40% 0 0;
+	margin: 40% 0 0;
 }
 
 section.projects div.card-img-top {
-    width: 100%;
-    height: 24rem;
-    /* object-fit: cover; */
+	width: 100%;
+	height: 24rem;
+}
+
+	section.projects div.card-img-top .video {
+	display: inline-block;
+	width: 50%;
+	margin-left: 7vw;
+
 }
 
 section.projects .card p {
-    color: #838383;
+	color: #838383;
 }
 
 /* Contact.html styling */
 
-/* section.contact div.title {
-    padding-top: 15%;
-    margin-bottom: 28%;
-} */
-
- /* section.contact div.title h1, ection.contact div.title h3, section.contact div.title a {
-    margin-left: 8%;
- } */
-
-/* section.contact div.title h1 {
-    font-size: 3rem;
-} */
-
 section.contact #info {
-    background-color: #efefef;
-    padding: 2% 0;
-    margin: 55% 0 12%;
+	background-color: #efefef;
+	padding: 2% 0;
+	margin: 55% 0 12%;
 }
 
-section.contact #info a.info-link{
-    font-weight: 500;
-    font-size: 0.9rem;
-    letter-spacing: 0.07rem;
+section.contact #info a.info-link {
+	font-weight: 500;
+	font-size: 0.9rem;
+	letter-spacing: 0.07rem;
 }
 
 section.contact #info div.social li {
-    list-style: none;
+	list-style: none;
+}
+
+/* Media query */
+
+@media only screen and (max-width: 1000px) {
+	section.introduction .profile-img {
+		margin: 50% 0 0;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	section.about .deco-img {
+		display: none;
+	}
+	
+	section.introduction .profile-img {
+		margin: 0;
+	}
+
+	section.projects div.card-img-top .video {
+	display: inline-block;
+	width: 60%;
+	margin-left: 15vw;
+}
+
+#footer div.contact {
+	display: none;
+}
 }
