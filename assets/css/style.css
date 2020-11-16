@@ -216,7 +216,7 @@ section.contact #info div.social li {
 
 	section.projects div.card-img-top .video {
 		display: inline-block;
-		width: 65%;
+		width: 60%;
 		margin-left: 13vw;
 	}
 
@@ -230,10 +230,10 @@ section.contact #info div.social li {
 	}
 }
 
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 425px) {
 	section.projects div.card-img-top .video {
 		display: inline-block;
-		width: 75%;
+		width: 68%;
 		margin-left: 8.5vw;
 	}
 }
