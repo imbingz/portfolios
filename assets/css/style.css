@@ -17,7 +17,13 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 	padding: 0;
 }
 
+html {
+	scroll-behavior: smooth;
+}
+
+html,
 body {
+	height: 100%;
 	font-family: "Open Sans", "Noto Sans", Roboto, Montserrat, Lato;
 	font-size: 17px;
 	padding-bottom: 150px;
@@ -44,7 +50,7 @@ header nav.navbar {
 
 /* This sytles all section-1 of all pages */
 section.section-1 {
-	margin-bottom: 7%;
+	height: 100vh;
 }
 
 /* This styles all section-1 h1 of all pages */
@@ -69,6 +75,7 @@ section div.title {
 /* End of shared styling */
 
 /* index.html Introduction Section-1*/
+
 section.introduction h1 span.bing {
 	font-size: 3.5rem;
 	color: #3f6cb2;
@@ -81,13 +88,14 @@ section.introduction img {
 
 /* index.html- About Me Section-2*/
 section.about {
+	height: 100vh;
 	margin: 5% 2%;
 }
 
-section.about #about-space {
+section.about #about {
 	width: 100%;
 	height: 10vh;
-	margin: 3% 0;
+	margin-top: 3% 0;
 }
 
 section.about img {
@@ -115,6 +123,12 @@ section.projects {
 	margin: 40% 0 0;
 }
 
+section.projects .card {
+	background-color: rgb(0, 0, 0, 0.8);
+	border: 3px solid rgb(187, 186, 186);
+	box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
 section.projects div.card-img-top {
 	width: 100%;
 	height: 24rem;
@@ -124,6 +138,7 @@ section.projects div.card-img-top .video {
 	display: inline-block;
 	width: 50%;
 	margin-left: 7vw;
+	margin-bottom: 10vh;
 }
 
 section.projects .card h4 {
@@ -131,33 +146,56 @@ section.projects .card h4 {
 }
 
 section.projects .card p {
-	color: #838383;
+	color: #e9e9e9;
 }
 
 /* Contact.html styling */
 
-section.contact #info-space {
-	padding: 0;
-	width: 100%;
-	height: 2.5vh;
+section.contact-info {
+	height: 100vh;
+	position: relative;
 }
 
-section.contact #info {
+section #info {
+	position: absolute;
+	top: 10%;
 	background-color: #efefef;
 	padding: 2% 0;
 	margin: 15% 0 12%;
 }
 
-section.contact #info a.info-link {
+section #info a.info-link {
 	font-weight: 500;
 	font-size: 0.9rem;
 	letter-spacing: 0.07rem;
 }
 
-section.contact #info div.social li {
+section #info div.social li {
 	list-style: none;
 }
 
+/* Back-to-top Button */
+#myBtn {
+	display: none;
+	position: fixed;
+	bottom: 100px;
+	right: 30px;
+	z-index: 99;
+	font-size: 18px;
+	font-weight: bold;
+	border: none;
+	outline: none;
+	background-color: rgb(192, 192, 192, 0.9);
+	color: #ff7b06;
+	cursor: pointer;
+	padding: 10px;
+	border-radius: 50%;
+}
+
+#myBtn:hover {
+	background-color: rgb(85, 85, 85, 0.7);
+	color: white;
+}
 /* Media query */
 
 @media only screen and (max-width: 1024px) {
