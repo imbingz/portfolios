@@ -138,15 +138,23 @@ section.projects div.card-img-top .video {
 	display: inline-block;
 	width: 50%;
 	margin-left: 7vw;
-	margin-bottom: 10vh;
+	margin-bottom: 3vh;
 }
 
-section.projects .card h4 {
+section.projects .card-title {
 	color: #ff7b06;
 }
 
+/* section.projects .card h5 {
+	color: #0978f6;
+} */
+
 section.projects .card p {
 	color: #e9e9e9;
+}
+
+section.projects .tech strong {
+	color: #2386f7;
 }
 
 /* Contact.html styling */
