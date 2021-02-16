@@ -34,7 +34,7 @@ A website that will showcase my future projects along with information about mys
 ### 4. Project Links
 
 #### Website Link
- https://imbingz.github.io/Responsive-Website-Portfolio/
+ https://imbingz.github.io/portfolios/
 
 #### Work-Files Link
 https://github.com/imbingz/Responsive-Website-Portfolio
