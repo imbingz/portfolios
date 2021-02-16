@@ -188,13 +188,13 @@ section #info div.social li {
 	display: none;
 	position: fixed;
 	bottom: 150px;
-	right: 30px;
+	right: 100px;
 	z-index: 99;
 	font-size: 18px;
 	font-weight: bold;
 	border: none;
 	outline: none;
-	background-color: rgb(192, 192, 192, 0.9);
+	background-color: rgb(192, 192, 192, 0.7);
 	color: #ff7b06;
 	cursor: pointer;
 	padding: 10px;
