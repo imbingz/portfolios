@@ -187,8 +187,8 @@ section #info div.social li {
 #myBtn {
 	display: none;
 	position: fixed;
-	bottom: 150px;
-	right: 100px;
+	bottom: 250px;
+	left: 200px;
 	z-index: 99;
 	font-size: 18px;
 	font-weight: bold;
@@ -240,6 +240,11 @@ section #info div.social li {
 		display: inline-block;
 		width: 80%;
 		margin-left: 3vw;
+	}
+
+	#myBtn {
+		bottom: 150px;
+		left: 400px;
 	}
 }
 
