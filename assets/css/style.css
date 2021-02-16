@@ -17,6 +17,8 @@ colors: #3f6cb2 #bd2640 #efefef #000000 #838383
 	padding: 0;
 }
 
+/* Start of shared styling  */
+
 html {
 	scroll-behavior: smooth;
 }
@@ -26,26 +28,15 @@ body {
 	height: 100%;
 	font-family: "Open Sans", "Noto Sans", Roboto, Montserrat, Lato;
 	font-size: 17px;
-	padding-bottom: 150px;
 }
-
-/* footer for all pages  */
-
-footer ul.copyright p,
-footer li a.email {
-	font-size: 0.75rem;
-	letter-spacing: 0.9px;
-}
-
-footer ul.social li {
-	list-style: none;
-}
-
-/* Start of shared styling  */
 
 /* This styles navbar of all pages */
 header nav.navbar {
 	padding: 2% 8% 1% 3%;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+	color: #ff7b06;
 }
 
 /* This sytles all section-1 of all pages */
@@ -72,6 +63,22 @@ section div.title {
 	padding: 15% 5% 15% 0;
 }
 
+section div.title h3 {
+	color: #777777;
+}
+
+/* footer for all pages  */
+
+footer ul.copyright p,
+footer li a.email {
+	font-size: 0.75rem;
+	letter-spacing: 0.9px;
+}
+
+footer ul.social li {
+	list-style: none;
+}
+
 /* End of shared styling */
 
 /* index.html Introduction Section-1*/
@@ -89,13 +96,7 @@ section.introduction img {
 /* index.html- About Me Section-2*/
 section.about {
 	height: 100vh;
-	margin: 5% 2%;
-}
-
-section.about #about {
-	width: 100%;
-	height: 10vh;
-	margin-top: 3% 0;
+	margin: 5% 2% 10% 2%;
 }
 
 section.about img {
@@ -186,7 +187,7 @@ section #info div.social li {
 #myBtn {
 	display: none;
 	position: fixed;
-	bottom: 100px;
+	bottom: 150px;
 	right: 30px;
 	z-index: 99;
 	font-size: 18px;
