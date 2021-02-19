@@ -14,7 +14,7 @@
 
 <a name="context"></a>
 ### 1. Project Context
-A website that will showcase my future projects along with information about myself.
+A website that will showcase my projects along with information about myself.
 
 <a name="objectives"></a>
 ### 2. Project Objectives
@@ -34,7 +34,7 @@ A website that will showcase my future projects along with information about mys
 ### 4. Project Links
 
 #### Website Link
- https://imbingz.github.io/portfolios/
+https://master.dnk30skugumrc.amplifyapp.com/
 
 
 <a name="Screenshots"></a>
