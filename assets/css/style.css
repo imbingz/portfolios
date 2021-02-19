@@ -188,7 +188,7 @@ section #info div.social li {
 	display: none;
 	position: fixed;
 	bottom: 250px;
-	left: 200px;
+	right: 200px;
 	z-index: 99;
 	font-size: 18px;
 	font-weight: bold;
