@@ -51,10 +51,17 @@ section.section-1 h1 {
 }
 
 /* This styles all link buttons of all pages */
-section.section-1 a.btn,
-section.section-2 a.btn {
+section.section-1 a.btn.about,
+section.section-2 a.btn.about {
 	font-size: 1.1rem;
 	border: 1px solid #bd2640;
+	font-weight: 500;
+}
+
+section.section-1 a.btn.resume,
+section.section-2 a.btn.resume {
+	font-size: 1.1rem;
+	border: 1px solid #3f6cb2;
 	font-weight: 500;
 }
 
